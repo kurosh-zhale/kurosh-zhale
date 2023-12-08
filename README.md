@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kurosh-zhale
-- 👀 I’m interested in sofware eng ,CS and computer science  
-- 🌱 I’m currently learning nestjs, nextjs and react
-- 💞️ I’m looking to collaborate on anything that has to do with sofware eng 
+- 🕸️ I am a web developer that works with Angular, React and WordPress
+- 👀 I’m interested in sofware eng nad computer science  
+- 💞️ I’m looking to collaborate on anything that has to do with web development 
 - 📫 How to reach me => you can send me an E-mail at kjreem.imagine@gmail.com
 
 <!---
